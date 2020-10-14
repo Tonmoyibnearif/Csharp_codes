@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Wr0cC3oltzzJQyTf+a+qqVNUgXQX/v+zylzQlKbqiErNHUnte2TCLSHRW0sSi5ktMjov9OOcbkvuYYYK+C2HQ==",
+  "success": true,
+  "projectFilePath": "/home/tonmoy/Desktop/Csharp_code/introlib/introlib.csproj",
+  "expectedPackageFiles": [
+    "/home/tonmoy/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/tonmoy/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
